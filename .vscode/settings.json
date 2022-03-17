@@ -1,0 +1,15 @@
+{
+    "eslint.format.enable": true,
+    "eslint.run": "onSave",
+    "eslint.probe": [
+        "javascript",
+        "html",
+        "vue",
+        "markdown",
+        "vuetify",
+        "vuex",
+        "nuxt",
+        "node"
+    ],
+    "eslint.quiet": true
+}
