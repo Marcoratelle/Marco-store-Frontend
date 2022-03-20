@@ -1,4 +1,4 @@
-# myApp
+# Marco's store frontend
 
 ## Build Setup
 
@@ -17,4 +17,24 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## Features
+- Single page application
+- Login and account creation
+- Products loaded from database through the API
+- Local shopping cart
+- Database saved shopping selection available on return log in
+- Responsive layout for all formats
+- Centralized store for all components
+- Check out with price calculator
+- Adjust quantities from your cart
+- Remove items completely before check out
+
+## Technologies & frameworks
+- Vuejs
+- Vuetify
+- Vuex
+- Nuxtjs
+- Axios
+- Eslint/Prettier
+- HTML
+- CSS
